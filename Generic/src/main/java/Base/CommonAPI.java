@@ -2,10 +2,10 @@ package Base;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,24 +14,21 @@ import java.util.concurrent.TimeUnit;
 public class CommonAPI {
 
     public  static WebDriver driver = null;
-    String url = null;
+
     @BeforeMethod
+
     public void SetUp(){
-            driver = new FirefoxDriver();
-            System.setProperty("webdriver.gecko.driver", "/Users/luiscabrera/Documents/WebAutomation/Generic/BrowserDriver/geckodriver");
-            driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-            driver.get(url);
-            driver.manage().window().maximize();
+        System.setProperty("webdriver.chrome.driver", "/Users/luiscabrera/Documents/WebAutomation/Generic/BrowserDriver/chromedriver 3");
+        driver = new ChromeDriver();
+        driver.manage().timeouts().implicitlyWait(5,TimeUnit.SECONDS);
+        driver.manage().timeouts().pageLoadTimeout(10,TimeUnit.SECONDS);
+        driver.get("https://www.chase.com");
     }
-    public static WebDriver handleNewTab(WebDriver driver){
-        String oldTab = driver.getWindowHandle();
-        List<String > newTabs = new ArrayList<String>(driver.getWindowHandles());
-        newTabs.remove(oldTab);
-        driver.switchTo().window(newTabs.get(0));
-        return driver;
-    }
-    @AfterMethod
-    public void close(){
-        driver.close();
-    }
+
+   // @AfterMethod
+    //public void close(){
+
+
+       // driver.close();
+   // }
 }

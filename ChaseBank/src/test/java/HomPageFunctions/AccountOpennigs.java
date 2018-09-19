@@ -44,15 +44,65 @@ public class AccountOpennigs extends CommonAPI {
     }
     @Test
     public void savingsAccountOpening (){
+        driver.get("url");
         rightArrow();
         WebElement element = driver.findElement(By.xpath("//*[@id=\"DA_717828753162\"]/a/div[2]"));
         element.click();
      }
-     public void chaseForBussines(){
+     @Test
+     public void chaseForBussines() throws InterruptedException {
+        driver.get("url");
         rightArrow();
+        Thread.sleep(2000);
         rightArrow();
+        Thread.sleep(2000);
         WebElement element = driver.findElement(By.xpath("//*[@id=\"DA_39268018429\"]/a/div[1]"));
         element.click();
      }
+     @Test
+     public void PrivateClient() throws InterruptedException {
+        driver.get("url");
+        rightArrow();
+        Thread.sleep(2000);
+        rightArrow();
+        Thread.sleep(2000);
+        rightArrow();
+        Thread.sleep(2000);
+        WebElement element = driver.findElement(By.xpath("//*[@id=\"DA_507902989192\"]/a/div[2]"));
+        element.click();
+     }
+     @Test
+     public void Invest() throws InterruptedException{
+        driver.get("url");
+        rightArrow();
+        Thread.sleep(2000);
+        rightArrow();
+        Thread.sleep(2000);
+        rightArrow();
+        Thread.sleep(2000);
+        rightArrow();
+        Thread.sleep(2000);
+        WebElement element = driver.findElement(By.xpath("//*[@id=\"DA_507902989192\"]/a/div[2]"));
+        element.click();
+     }
+     @Test
+     public void chaseTotalCheckingOpenNow (){
+       driver.get("url");
+        WebElement element = driver.findElement(By.xpath("//*[@id=\"DA_141401315348\"]/img"));
+     element.click();
+     }
+     @Test
+     public void ChaseMorgage(){
+        driver.get("url");
+        WebElement element = driver.findElement(By.xpath("//*[@id=\"DA_440852739557\"]/img"));
+        element.click();
+     }
+     @Test
+     public void chaseAuto(){
+        driver.get("url");
+        WebElement element = driver.findElement(By.xpath("//*[@id=\"DA_795398006178\"]/img"));
+        element.click();
+     }
 }
+
 
