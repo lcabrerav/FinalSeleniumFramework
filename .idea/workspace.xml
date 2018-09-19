@@ -10,31 +10,8 @@
       <change afterPath="$PROJECT_DIR$/../AutomationWebsite/Generic/BrowserDrivers/geckodriver" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AutomationWebsite/Generic/BrowserDrivers/geckodriver.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AutomationWebsite/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/BrowserDriver/chromedriver 3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test" beforeDir="false" afterPath="$PROJECT_DIR$/../Test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/src/main/resources/ChaseBankTestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/src/test/java/HomPageFunctions/AccountOpennigs.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/src/test/java/HomPageFunctions/AccountOpennigs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ChaseBank/src/test/java/SignInTest/SignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/src/test/java/SignInTest/SignIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/ChaseBank-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/classes/ChaseBankTestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/classes/Home/HomeScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/target/classes/Home/HomeScreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/test-classes/HomPageFunctions/AccountOpennigs.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/target/test-classes/HomPageFunctions/AccountOpennigs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/test-classes/SignInTest/SignIn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/Base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/Base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,13 +34,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3414" />
+          <entry key="java" value="3440" />
           <entry key="xml" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3414" />
+          <entry key="JAVA" value="3440" />
           <entry key="XML" value="115" />
         </counts>
       </usages-collector>
@@ -90,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+            <state relative-caret-position="168">
+              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/SignInTest/SignIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+            <state relative-caret-position="697">
+              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -187,8 +164,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="574" />
-    <option name="y" value="88" />
+    <option name="x" value="410" />
+    <option name="y" value="31" />
     <option name="width" value="1280" />
     <option name="height" value="708" />
   </component>
@@ -302,7 +279,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537394419971" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537396938027" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -328,8 +305,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SignIn.forgotPassword">
-    <configuration name="SignIn.ForgotUserAndPassword" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SignIn.PasswordInput">
+    <configuration name="SignIn.PasswordInput" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ChaseBank" />
       <extension name="coverage">
         <pattern>
@@ -339,7 +316,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="SignInTest" />
       <option name="MAIN_CLASS_NAME" value="SignInTest.SignIn" />
-      <option name="METHOD_NAME" value="ForgotUserAndPassword" />
+      <option name="METHOD_NAME" value="PasswordInput" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -414,17 +391,17 @@
     <list>
       <item itemvalue="TestNG.SignIn.UserInput" />
       <item itemvalue="TestNG.SignIn.SignInT" />
-      <item itemvalue="TestNG.SignIn.ForgotUserAndPassword" />
       <item itemvalue="TestNG./Users/luiscabrera/Documents/WebAutomation/ChaseBank/src/test/resources/ChaseBankTestRunner.xml" />
       <item itemvalue="TestNG.SignIn.forgotPassword" />
+      <item itemvalue="TestNG.SignIn.PasswordInput" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SignIn.PasswordInput" />
         <item itemvalue="TestNG.SignIn.forgotPassword" />
         <item itemvalue="TestNG./Users/luiscabrera/Documents/WebAutomation/ChaseBank/src/test/resources/ChaseBankTestRunner.xml" />
         <item itemvalue="TestNG.SignIn.UserInput" />
         <item itemvalue="TestNG.SignIn.SignInT" />
-        <item itemvalue="TestNG.SignIn.ForgotUserAndPassword" />
       </list>
     </recent_temporary>
   </component>
@@ -442,27 +419,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 25m 46s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 30m 10s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 31m 40s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 44m 29s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 45m 51s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 47m 13s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 47m 56s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_luiscabrera_Documents_WebAutomation_ChaseBank_src_test_resources_ChaseBankTestRunner_xml - 2018.09.19 at 17h 50m 04s.xml">
       <configuration name="/Users/luiscabrera/Documents/WebAutomation/ChaseBank/src/test/resources/ChaseBankTestRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -472,9 +428,30 @@
     <history-entry file="_Users_luiscabrera_Documents_WebAutomation_ChaseBank_src_test_resources_ChaseBankTestRunner_xml - 2018.09.19 at 17h 54m 28s.xml">
       <configuration name="/Users/luiscabrera/Documents/WebAutomation/ChaseBank/src/test/resources/ChaseBankTestRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 59m 01s.xml">
+      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 18h 00m 36s.xml">
+      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 18h 08m 11s.xml">
+      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 18h 10m 03s.xml">
+      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 18h 12m 35s.xml">
+      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 18h 14m 21s.xml">
+      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 18h 15m 35s.xml">
+      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="332" y="33" width="1280" height="708" extended-state="0" />
+    <frame x="119" y="30" width="1280" height="708" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -607,8 +584,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+        <state relative-caret-position="168">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -617,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/SignInTest/SignIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+        <state relative-caret-position="697">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

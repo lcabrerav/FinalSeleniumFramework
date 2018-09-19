@@ -13,20 +13,15 @@ public class SignIn extends CommonAPI {
     WebElement element = null;
 
     @Test
-    public void forgotPassword() {
-        try {
-            driver.findElement(By.xpath("//*[@id=\"forgotPassword\"]")).click();
-
-        } catch (Exception e) {
-            System.out.println(e);
-        }
+    public void CreateAnAccount() {
+        driver.findElement(By.xpath("//*[@id=\"Module1\"]/section/div/div/div[2]/div/a")).click();
+    }
 
 
-  /*  @Test
-     public void PasswordInput(){
-        WebElement element = driver.findElement(By.cssSelector("#password-input-field"));
-        element.sendKeys("luillo2301");
-     }
+    @Test
+    public void PasswordInput() {
+
+   /*  }
      @Test
      public void SignInT() throws Exception{
         UserInput();
