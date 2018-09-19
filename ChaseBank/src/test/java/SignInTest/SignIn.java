@@ -8,6 +8,11 @@ import org.testng.annotations.Test;
 
 public class SignIn extends CommonAPI {
 
+
+    @Test
+    public void chaseBankLaunch(){
+        driver.get("url");
+    }
     @Test
     public void UserInput (){
         WebElement element = driver.findElement(By.id("userId-input-field"));
