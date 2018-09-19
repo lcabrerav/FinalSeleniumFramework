@@ -27,6 +27,18 @@ public class SignIn extends CommonAPI {
      public void SignInT(){
         UserInput();
         PasswordInput();
-
-     }
+        WebElement element = driver.findElement(By.id("signin-button"));
+        element.click();
+    }
+    @Test
+     public void openAnAccountMenu(){
+        WebElement element = driver.findElement(By.className("header__section--dropdown__title__link chaseanalytics-track-link"));
+         element.click();
+    }
+    @Test
+    public void ForgotPassword(){
+        WebElement element = driver.findElement(By.id("forgotPassword"));
+        element.click();
+    }
 }
+

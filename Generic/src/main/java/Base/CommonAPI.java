@@ -17,9 +17,10 @@ public class CommonAPI {
     @BeforeMethod
     public void SetUp(){
         driver = new FirefoxDriver();
-        System.setProperty("webdriver.chrome.driver","../Generic/BrowserDriver/chromedriver");
+        System.setProperty("webdriver.gecko.driver", "/Users/luiscabrera/Documents/WebAutomation/Generic/BrowserDriver/chromedriver");
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get(url);
+        driver.manage().window().maximize();
     }
     public static WebDriver handleNewTab(WebDriver driver){
         String oldTab = driver.getWindowHandle();
