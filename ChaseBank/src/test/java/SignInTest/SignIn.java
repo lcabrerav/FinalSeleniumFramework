@@ -19,7 +19,7 @@ public class SignIn extends CommonAPI {
         element.sendKeys("luillo2301");
      }
      @Test
-     public void SignIn(){
+     public void SignInT(){
         UserInput();
         PasswordInput();
 
