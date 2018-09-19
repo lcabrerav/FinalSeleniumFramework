@@ -3,6 +3,7 @@ package Base;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
@@ -16,11 +17,11 @@ public class CommonAPI {
     String url = null;
     @BeforeMethod
     public void SetUp(){
-        driver = new FirefoxDriver();
-        System.setProperty("webdriver.gecko.driver", "/Users/luiscabrera/Documents/WebAutomation/Generic/BrowserDriver/chromedriver");
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.get(url);
-        driver.manage().window().maximize();
+            driver = new FirefoxDriver();
+            System.setProperty("webdriver.gecko.driver", "/Users/luiscabrera/Documents/WebAutomation/Generic/BrowserDriver/geckodriver");
+            driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+            driver.get(url);
+            driver.manage().window().maximize();
     }
     public static WebDriver handleNewTab(WebDriver driver){
         String oldTab = driver.getWindowHandle();

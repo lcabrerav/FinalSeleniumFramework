@@ -14,6 +14,7 @@
     <test name = "Search Test">
         <classes>
             <class name="SignInTest.SignIn"/>
+            <class name="HomPageFunctions.AccountOpennigs"/>
 
         </classes>
     </test>
