@@ -2,49 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4123391-72c5-48d8-8d46-c45b64ce4760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AutomationWebsite/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomationWebsite/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomationWebsite/AutomationWebsite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomationWebsite/Generic/BrowserDrivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomationWebsite/Generic/BrowserDrivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomationWebsite/Generic/BrowserDrivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomationWebsite/Generic/BrowserDrivers/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutomationWebsite/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/BrowserDriver/chromedriver 3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test" beforeDir="false" afterPath="$PROJECT_DIR$/../Test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/test/java/Home/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/src/main/resources/ChaseBankTestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/src/test/java/HomPageFunctions/AccountOpennigs.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/src/test/java/HomPageFunctions/AccountOpennigs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/src/test/java/SignInTest/SignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/src/test/java/SignInTest/SignIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/ChaseBank-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/classes/ChaseBankTestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/classes/Home/HomeScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/target/classes/Home/HomeScreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/test-classes/HomPageFunctions/AccountOpennigs.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChaseBank/target/test-classes/HomPageFunctions/AccountOpennigs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChaseBank/target/test-classes/SignInTest/SignIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/BrowserDriver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/BrowserDriver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/classes/Base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/Base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAutomation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
     <ignored path="$PROJECT_DIR$/ChaseBank/target/" />
+    <ignored path="$PROJECT_DIR$/Ebay/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FinalSeleniumFramework$C__Users_sadia_IdeaProjects_FinalSeleniumFramework_Ebay_src_test_resources_ebayTestRunner_xml.ic" NAME="$PROJECT_DIR$/Ebay/src/test/resources/ebayTestRunner.xml Coverage Results" MODIFIED="1537420603445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myAutoScrollFromSource" value="true" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="792435648">
@@ -84,26 +71,63 @@
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="-287486894">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="chromedriver" value="1" />
+          <entry key="chromedriver 3" value="1" />
+          <entry key="exe" value="2" />
+          <entry key="geckodriver" value="1" />
+          <entry key="groovy" value="1" />
+          <entry key="java" value="8" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="8" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="16" />
+          <entry key="groovy" value="14" />
+          <entry key="java" value="505" />
+          <entry key="xml" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="14" />
+          <entry key="JAVA" value="505" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="XML" value="19" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FinalSeleniumFramework" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/SignInTest/SignIn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+            <state relative-caret-position="237">
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,10 +136,84 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/resources/ChaseBankTestRunner.xml">
+        <entry file="file://$PROJECT_DIR$/Generic/BrowserDriver/chromedriver.exe">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ebay/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state relative-caret-position="147">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ebay/src/test/resources/ebayTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="581" selection-start-line="581" selection-end-line="581" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/Home/Search.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/TestNG.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="294" selection-start-line="294" selection-end-line="294" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/xml/XmlClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/HomPageFunctions/AccountOpennigs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,17 +233,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/ChaseBank/src/test/java/SignIn.java" />
         <option value="$PROJECT_DIR$/ChaseBank/src/main/resources/AmazonTestRunner.xml" />
         <option value="$PROJECT_DIR$/ChaseBank/src/main/resources/ChaseBankTestRunner.xml" />
         <option value="$PROJECT_DIR$/ChaseBank/src/test/java/HomPageFunctions/AccountOpennigs.java" />
         <option value="$PROJECT_DIR$/ChaseBank/src/main/java/Home/HomeScreen.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/ChaseBank/src/test/resources/ChaseBankTestRunner.xml" />
         <option value="$PROJECT_DIR$/ChaseBank/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/ChaseBank/src/test/java/SignInTest/SignIn.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/Base/SCommonApi.java" />
+        <option value="$PROJECT_DIR$/Ebay/src/test/java/LoginPage.java" />
+        <option value="$PROJECT_DIR$/Ebay/src/test/java/Home/HomeSearch.java" />
+        <option value="$PROJECT_DIR$/Ebay/src/test/java/Home/LoginPageTest.groovy" />
+        <option value="$PROJECT_DIR$/Ebay/src/test/java/Home/LoginPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Ebay/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Ebay/src/test/resources/ebayTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Ebay/src/test/java/Home/Search.java" />
       </list>
     </option>
   </component>
@@ -158,39 +264,18 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ChaseBank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ChaseBank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ChaseBank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebAutomation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebAutomation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="574" />
-    <option name="y" value="88" />
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="570" />
+    <option name="y" value="85" />
     <option name="width" value="1280" />
-    <option name="height" value="708" />
+    <option name="height" value="710" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -198,97 +283,92 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HomPageFunctions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SignInTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="ChaseBank" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="BrowserDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FinalSeleniumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalSeleniumFramework" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -299,21 +379,34 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537394419971" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537425146081" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ChaseBank/src/test" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Home" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sadia\IdeaProjects\FinalSeleniumFramework\Generic\BrowserDriver" />
       <recent name="$PROJECT_DIR$/Generic/BrowserDriver" />
       <recent name="$PROJECT_DIR$/ChaseBank/src/main/resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sadia\IdeaProjects\FinalSeleniumFramework\Ebay\src\test" />
+      <recent name="$PROJECT_DIR$/ChaseBank/src/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -328,82 +421,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SignIn.forgotPassword">
-    <configuration name="SignIn.ForgotUserAndPassword" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ChaseBank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SignInTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SignInTest" />
-      <option name="MAIN_CLASS_NAME" value="SignInTest.SignIn" />
-      <option name="METHOD_NAME" value="ForgotUserAndPassword" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SignIn.SignInT" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ChaseBank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SignInTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SignInTest" />
-      <option name="MAIN_CLASS_NAME" value="SignInTest.SignIn" />
-      <option name="METHOD_NAME" value="SignInT" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SignIn.UserInput" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ChaseBank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SignInTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SignInTest" />
-      <option name="MAIN_CLASS_NAME" value="SignInTest.SignIn" />
-      <option name="METHOD_NAME" value="UserInput" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SignIn.forgotPassword" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ChaseBank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SignInTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SignInTest" />
-      <option name="MAIN_CLASS_NAME" value="SignInTest.SignIn" />
-      <option name="METHOD_NAME" value="forgotPassword" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/luiscabrera/Documents/WebAutomation/ChaseBank/src/test/resources/ChaseBankTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ChaseBank" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/ChaseBank/src/test/resources/ChaseBankTestRunner.xml" />
+  <component name="RunManager" selected="TestNG.C:/Users/sadia/IdeaProjects/FinalSeleniumFramework/Ebay/src/test/resources/ebayTestRunner.xml">
+    <configuration name="C:/Users/sadia/IdeaProjects/FinalSeleniumFramework/Ebay/src/test/resources/ebayTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Ebay/src/test/resources/ebayTestRunner.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -411,20 +432,90 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Search" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Home" />
+      <option name="MAIN_CLASS_NAME" value="Home.Search" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search.Login" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Home" />
+      <option name="MAIN_CLASS_NAME" value="Home.Search" />
+      <option name="METHOD_NAME" value="Login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search.Search" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Home" />
+      <option name="MAIN_CLASS_NAME" value="Home.Search" />
+      <option name="METHOD_NAME" value="Search" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search.searchItem" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Home" />
+      <option name="MAIN_CLASS_NAME" value="Home.Search" />
+      <option name="METHOD_NAME" value="searchItem" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="TestNG.SignIn.UserInput" />
-      <item itemvalue="TestNG.SignIn.SignInT" />
-      <item itemvalue="TestNG.SignIn.ForgotUserAndPassword" />
-      <item itemvalue="TestNG./Users/luiscabrera/Documents/WebAutomation/ChaseBank/src/test/resources/ChaseBankTestRunner.xml" />
-      <item itemvalue="TestNG.SignIn.forgotPassword" />
+      <item itemvalue="TestNG.Search.Search" />
+      <item itemvalue="TestNG.Search" />
+      <item itemvalue="TestNG.C:/Users/sadia/IdeaProjects/FinalSeleniumFramework/Ebay/src/test/resources/ebayTestRunner.xml" />
+      <item itemvalue="TestNG.Search.searchItem" />
+      <item itemvalue="TestNG.Search.Login" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SignIn.forgotPassword" />
-        <item itemvalue="TestNG./Users/luiscabrera/Documents/WebAutomation/ChaseBank/src/test/resources/ChaseBankTestRunner.xml" />
-        <item itemvalue="TestNG.SignIn.UserInput" />
-        <item itemvalue="TestNG.SignIn.SignInT" />
-        <item itemvalue="TestNG.SignIn.ForgotUserAndPassword" />
+        <item itemvalue="TestNG.C:/Users/sadia/IdeaProjects/FinalSeleniumFramework/Ebay/src/test/resources/ebayTestRunner.xml" />
+        <item itemvalue="TestNG.Search.Login" />
+        <item itemvalue="TestNG.Search.searchItem" />
+        <item itemvalue="TestNG.Search.Search" />
+        <item itemvalue="TestNG.Search" />
       </list>
     </recent_temporary>
   </component>
@@ -442,68 +533,69 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 25m 46s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    <history-entry file="Search_Login - 2018.09.20 at 02h 17m 28s.xml">
+      <configuration name="Search.Login" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 30m 10s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    <history-entry file="Search_searchItem - 2018.09.20 at 02h 18m 13s.xml">
+      <configuration name="Search.searchItem" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 31m 40s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    <history-entry file="C__Users_sadia_IdeaProjects_FinalSeleniumFramework_Ebay_src_test_resources_ebayTestRunner_xml - 2018.09.20 at 02h 19m 09s.xml">
+      <configuration name="C:/Users/sadia/IdeaProjects/FinalSeleniumFramework/Ebay/src/test/resources/ebayTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 44m 29s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    <history-entry file="Search_Login - 2018.09.20 at 02h 20m 59s.xml">
+      <configuration name="Search.Login" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 45m 51s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    <history-entry file="Search_Login - 2018.09.20 at 02h 22m 20s.xml">
+      <configuration name="Search.Login" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 47m 13s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    <history-entry file="C__Users_sadia_IdeaProjects_FinalSeleniumFramework_Ebay_src_test_resources_ebayTestRunner_xml - 2018.09.20 at 02h 23m 13s.xml">
+      <configuration name="C:/Users/sadia/IdeaProjects/FinalSeleniumFramework/Ebay/src/test/resources/ebayTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SignIn_forgotPassword - 2018.09.19 at 17h 47m 56s.xml">
-      <configuration name="SignIn.forgotPassword" configurationId="TestNG" />
+    <history-entry file="Search_Login - 2018.09.20 at 02h 23m 34s.xml">
+      <configuration name="Search.Login" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_luiscabrera_Documents_WebAutomation_ChaseBank_src_test_resources_ChaseBankTestRunner_xml - 2018.09.19 at 17h 50m 04s.xml">
-      <configuration name="/Users/luiscabrera/Documents/WebAutomation/ChaseBank/src/test/resources/ChaseBankTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="Search_Login - 2018.09.20 at 02h 24m 00s.xml">
+      <configuration name="Search.Login" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_luiscabrera_Documents_WebAutomation_ChaseBank_src_test_resources_ChaseBankTestRunner_xml - 2018.09.19 at 17h 51m 22s.xml">
-      <configuration name="/Users/luiscabrera/Documents/WebAutomation/ChaseBank/src/test/resources/ChaseBankTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="Search_Login - 2018.09.20 at 02h 25m 15s.xml">
+      <configuration name="Search.Login" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_luiscabrera_Documents_WebAutomation_ChaseBank_src_test_resources_ChaseBankTestRunner_xml - 2018.09.19 at 17h 54m 28s.xml">
-      <configuration name="/Users/luiscabrera/Documents/WebAutomation/ChaseBank/src/test/resources/ChaseBankTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="Search_Login - 2018.09.20 at 02h 26m 08s.xml">
+      <configuration name="Search.Login" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="332" y="33" width="1280" height="708" extended-state="0" />
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22294022" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32954547" />
-      <window_info anchor="bottom" id="Version Control" order="1" weight="0.32954547" />
+      <window_info id="Image Layers" order="3" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.79045093" visible="true" weight="0.1805668" />
+      <window_info id="Favorites" order="5" sideWeight="0.26420453" side_tool="true" weight="0.2574899" />
+      <window_info id="Structure" order="6" sideWeight="0.20954907" side_tool="true" weight="0.1805668" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3291815" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.375" />
-      <window_info anchor="bottom" id="Messages" order="6" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.37366548" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.3291815" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.2786753" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.50852275" side_tool="true" visible="true" weight="0.25506073" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.49147728" weight="0.25506073" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -512,51 +604,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ChaseBank/src/main/java/Home.java" />
     <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/SignIn.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/service/DriverService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.14.0/selenium-chrome-driver-3.14.0.jar!/org/openqa/selenium/chrome/ChromeDriverService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.14.0/selenium-chrome-driver-3.14.0-sources.jar!/org/openqa/selenium/chrome/ChromeDriverService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="154" column="19" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/service/DriverService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="117" column="24" selection-start-line="117" selection-start-column="24" selection-end-line="117" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1970">
-          <caret line="547" selection-start-line="547" selection-end-line="547" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/service/DriverCommandExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/BrowserDriver/geckodriver">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/service/DriverService.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.14.0/selenium-chrome-driver-3.14.0.jar!/org/openqa/selenium/chrome/ChromeDriverService.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.14.0/selenium-chrome-driver-3.14.0-sources.jar!/org/openqa/selenium/chrome/ChromeDriverService.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/service/DriverService.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/service/DriverCommandExecutor.java" />
     <entry file="file://$PROJECT_DIR$/ChaseBank/src/main/java/Home/HomeScreen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
@@ -567,58 +620,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/HomPageFunctions/AccountOpennigs.java">
+    <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/SignInTest/SignIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="99" column="10" selection-start-line="99" selection-start-column="10" selection-end-line="99" selection-end-column="10" />
+        <state relative-caret-position="289">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/BrowserDriver/chromedriver">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/LoginPage.java" />
+    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/Home/LoginPageTest.groovy" />
+    <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/resources/ChaseBankTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/BrowserDriver/chromedriver 3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChaseBank/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" selection-start-line="22" selection-end-line="44" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/SCommonApi.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/BrowserDriver/geckodriver">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/HomPageFunctions/AccountOpennigs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="581" selection-start-line="581" selection-end-line="581" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/xml/XmlClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="772">
-          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        <state relative-caret-position="187">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        <state relative-caret-position="1123">
+          <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChaseBank/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/TestNG.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="44" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+        <state relative-caret-position="101">
+          <caret line="294" selection-start-line="294" selection-end-line="294" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/resources/ChaseBankTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/Ebay/src/test/resources/ebayTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        <state relative-caret-position="236">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/BrowserDriver/chromedriver.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+        <state relative-caret-position="237">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChaseBank/src/test/java/SignInTest/SignIn.java">
+    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/Home/Search.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+        <state relative-caret-position="183">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -677,7 +790,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ChaseBank</last-edited>
+          <last-edited>Ebay</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
