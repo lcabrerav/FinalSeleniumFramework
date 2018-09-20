@@ -19,7 +19,13 @@ public class SignIn extends CommonAPI {
 
 
     @Test
-    public void PasswordInput() {
+    public void atmBranchFunctions () {
+        driver.findElement(By.xpath("/html/body/div/div[5]/header/div[4]/div[3]/ul/li[1]/a")).click();
+    }
+    @Test
+    public void lenguageFunction () {
+           driver.findElement(By.xpath("/html/body/div/div[5]/header/div[4]/div[3]/ul/li[2]/a")).click();
+        }
 
    /*  }
      @Test
@@ -47,4 +53,3 @@ public class SignIn extends CommonAPI {
         element.click();
      }*/
     }
-}
